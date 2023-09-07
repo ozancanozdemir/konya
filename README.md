@@ -1,8 +1,7 @@
 # konya
 
 
-<img src="https://github.com/ozancanozdemir/konya/assets/33122288/3a0fc3a9-8411-4e6a-9bbb-6cc729a980cb" width="200">![logo1](
-
+<img src="https://github.com/ozancanozdemir/konya/assets/33122288/3a0fc3a9-8411-4e6a-9bbb-6cc729a980cb" width="200">
 
 This package is developed to access the datasets in [Konya Open Data Portal](https://acikveri.konya.bel.tr/)
 
