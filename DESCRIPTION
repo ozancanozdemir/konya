@@ -10,8 +10,8 @@ Authors@R: c(
 Maintainer: Ozancan Ozdemir <ozancanozdemir@gmail.com>
 Description: Call the data wrappers for Konya Metropolitan Municipality's Open Data Portal <https://acikveri.konya.bel.tr/>. This will return all datasets stored in different formats. 
 License: MIT + file LICENSE
-URL: https://github.com/ozancanozdemir/bursa
-BugReports: https://github.com/ozancanozdemir/bursa/issues
+URL: https://github.com/ozancanozdemir/konya
+BugReports: https://github.com/ozancanozdemir/konya/issues
 Depends:
     R (>= 4.0)
 Imports:
